@@ -11,22 +11,22 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 1
 ### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/giphy
-- [ ] Fork this repository to your github account and clone it to a new workspace
-- [ ] Review your Starter Code and make sure you understand what code has already been written for you.
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [X] Fork this repository to your github account and clone it to a new workspace
+- [X] Review your Starter Code and make sure you understand what code has already been written for you.
+- [X] Add, commit, and push your changes
+- [X] Make your site live on gh-pages
 
 ### JS
-- [ ] Create a working fetch() function inside the click handler
-- [ ] Get the response from using your search URL https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
-- [ ] Console log the response
+- [X] Create a working fetch() function inside the click handler
+- [X] Get the response from using your search URL https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
+- [X] Console log the response
 
 ### Wrap
-- [ ] Push your changes!
+- [X] Push your changes!
 
 ## Day 2
 ### JS
-- [ ] Display the image from your console log on the screen
+- [X] Display the image from your console log on the screen
 - [ ] Take user input from the input box when button is clicked
 - [ ] Update the API request url based on user input
 - [ ] Display the updated image on the screen 

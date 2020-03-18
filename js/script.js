@@ -9,9 +9,15 @@ $("#search-button").click(function(){
         return response.json();
       })
       .then(function(data) {
-        console.log(data);
-          
+
+        console.log(data.data);
+    //var searchTerm = $("input").val();
+
+    //var new_url = `https://api.tvmaze.com/search/shows?q= ${searchTerm}`;
+
+    $('body').append('<img src=' + data.data[0].bitly_gif_url + '>');
   
+
       });
 });
 
