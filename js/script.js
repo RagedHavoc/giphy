@@ -15,10 +15,13 @@ let apiUrl = "https://api.giphy.com/v1/gifs/search?q=" + searchTerm + "&rating=p
       })
       .then(function(data) {
 
-        //console.log(searchTerm);
+        
     
 
-    //var new_url = `https://api.tvmaze.com/search/shows?q= ${searchTerm}`;
+    
+    (data.data).forEach(function(data){
+
+    )};
 
     $('body').append('<img src=' + data.data[0].images.original.url + '>');
   
