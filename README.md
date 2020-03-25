@@ -27,9 +27,9 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 2
 ### JS
 - [X] Display the image from your console log on the screen
-- [ ] Take user input from the input box when button is clicked
-- [ ] Update the API request url based on user input
-- [ ] Display the updated image on the screen 
+- [X] Take user input from the input box when button is clicked
+- [X] Update the API request url based on user input
+- [X] Display the updated image on the screen 
 
 ### Wrap
 - [ ] Push your changes!
@@ -38,8 +38,8 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 3
 ### JS
 - [ ] Complete one of the folowing extensions 
-    - Create a button that randomly chooses only one gif from response.
-    - Display all the images in the response to the screen.
+  [ ] - Create a button that randomly chooses only one gif from response.
+  [ ]- Display all the images in the response to the screen.
     - Create a mail_to link that will email the gif to anyone you want.
     - Make the gif pop out in a modal when clicked on.
 
