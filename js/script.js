@@ -15,17 +15,11 @@ let apiUrl = "https://api.giphy.com/v1/gifs/search?q=" + searchTerm + "&rating=p
       })
       .then(function(data) {
 
-        
-    
-
-    
     (data.data).forEach(function(data){
-
-    )};
-
-    $('body').append('<img src=' + data.data[0].images.original.url + '>');
-  
-
+        console.log(data);
+    $('body').append('<img src=' + data.images.original.url + '>');
+    });
+    
       });
 });
 

@@ -12,3 +12,8 @@ footer {
     padding-top: 100px;
     margin: 50px 0;
 }
+
+img {
+    width: 300px;
+    height: 150px;
+}
